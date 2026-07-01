@@ -1,5 +1,8 @@
 # Hướng Dẫn Nộp Bài - GPU FinOps Lab
 
+
+
+
 ## Tổng quan
 
 Sinh viên cần hoàn thành toàn bộ các phần trong notebook `gpu_finops_lab.ipynb` và nộp các báo cáo cùng hình ảnh minh họa theo yêu cầu dưới đây.
